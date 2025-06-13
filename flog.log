@@ -1,0 +1,7 @@
+2017-12-10 10:21:16.993  INFO --- [cTaskExecutor-1] o.s.a.r.l.SimpleMessageListenerContainer : unknown: Restarting Consumer: tags=[{amq.ctag-cIlAPNJRXDylTM1UAH5GsA=user.aml-check-status-requested}], channel=Cached Rabbit Channel: AMQChannel(amqp://ft-iam@127.0.0.1:5672/ft,11), conn: Proxy@56e7f0b Shared Rabbit Connection: SimpleConnection@2a5586ac [delegate=amqp://ft-iam@127.0.0.1:5672/ft, localPort= 50737], acknowledgeMode=AUTO local queue size=0
+2017-12-10 10:21:17.007  INFO --- [cTaskExecutor-2] o.s.a.r.c.CachingConnectionFactory       : unknown: Created new connection: SimpleConnection@1afb1d2f [delegate=amqp://ft-iam@127.0.0.1:5672/ft, localPort= 53079]
+2017-12-10 10:21:17.953  DEBUG --- [cTaskExecutor-1] o.s.a.r.l.SimpleMessageListenerContainer : unknown: Consumer raised exception, processing can restart if the connection factory supports it
+2017-12-10 10:21:18.212  WARN --- [cTaskExecutor-3] c.g.n.MessageService : root: Handling message: OK
+2021-12-22 13:03:37.549  ERROR --- [cTaskExecutor-3] c.g.n.MessageService : root: Handling message: OK
+2021-12-22 17:20:36.792  WARN --- [cTaskExecutor-3] c.g.n.MessageService : root: Handling message: OK
+2021-12-22 17:36:00.877  WARN --- [cTaskExecutor-3] c.g.n.MessageService : root: Handling message: OK
