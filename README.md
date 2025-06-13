@@ -1,6 +1,6 @@
 # Filter log
 
-This is a bash script that is able to filter lines from a Java log file by given parameters.
+This is a bash script that is able to print out filtered lines from a Java log file by given parameters.
 
 ## Usage
 
